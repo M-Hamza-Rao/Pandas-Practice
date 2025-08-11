@@ -1,2 +1,3 @@
 # Pandas-Practice
+NO PROJECTS ONLY PRACTICE WORK.
 ...
